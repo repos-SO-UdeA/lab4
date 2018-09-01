@@ -5,7 +5,7 @@
 
 ## Sesión de laboratorio
 1. **Manejo de memoria dinamica en C** ([link a la teoria](https://github.com/repos-SO-UdeA/laboratorios/blob/master/lab1/teoria/parte5/memoria_dinamica.ipynb "Memoria dinamica en C")).
-2. **Listas enlazadas (Caso de aplicación)**:  
+2. **Caso de aplicación: listas enlazadas** ([link al recurso](https://github.com/repos-SO-UdeA/lab4/blob/master/resources/listas_enlazadas.ipynb)).  
 
 
 En remojo:
