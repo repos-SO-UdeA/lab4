@@ -6,9 +6,46 @@
 ## Sesión de laboratorio
 1. **Manejo de memoria dinamica en C** ([link a la teoria](https://github.com/repos-SO-UdeA/laboratorios/blob/master/lab1/teoria/parte5/memoria_dinamica.ipynb "Memoria dinamica en C")).
 2. **Caso de aplicación: listas enlazadas** ([link al recurso](https://github.com/repos-SO-UdeA/lab4/blob/master/resources/listas_enlazadas.ipynb)).  
+3. **Caso internet 1**: http://mellowcandle.github.io/liblist/doc/html/index.html, https://github.com/mellowcandle/liblist/blob/master/tests/test.c
+4. **Caso internet 2**: http://sglib.sourceforge.net/ -- instalafo (creo)
+5. http://cslibrary.stanford.edu/
+6. https://github.com/srdja/Collections-C
+7. https://github.com/fragglet/c-algorithms (instalado) -- https://github.com/fragglet/c-algorithms/blob/master/test/test-slist.c  -- https://fragglet.github.io/c-algorithms/
+8.  https://github.com/recp/ds
+https://github.com/srdja/Collections-C
+
+
 
 
 En remojo:
+Data Structures
+
+
+
+https://github.com/kozross/awesome-c
+
+https://gist.github.com/ArnonEilat/4470948
+http://www.zentut.com/c-tutorial/c-linked-list/
+http://www.learn-c.org/en/Linked_lists
+
+
+
+https://github.com/clehner/ll.c
+https://linux.die.net/man/3/queue
+http://mellowcandle.github.io/liblist/   (Se instalo en el PC ya: Hay que probarla con un ejemplo sencillo).
+https://www.coursera.org/lecture/c-plus-plus-b/1-3-standard-template-library-o3v9K
+
+https://www.gnu.org/software/libc/manual/html_node/Data-Structures.html
+https://pseudomuto.com/2013/05/implementing-a-generic-linked-list-in-c/
+http://mindviewllc.com/
+
+
+
+
+
+
+https://embeddedartistry.com/blog/2017/2/9/implementing-malloc-first-fit-free-list
+https://www.cs.virginia.edu/luther/3330/F2016/codelabs.html
 
 Encripcion y desencripcion:
 
