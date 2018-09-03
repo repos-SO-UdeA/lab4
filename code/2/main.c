@@ -6,7 +6,6 @@
 
 int est_matriculados = 0;
 
-
 int main() {
   /*Variables locales */
   int opc;  // Variable asociada al menu
