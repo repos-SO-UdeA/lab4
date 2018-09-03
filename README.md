@@ -15,6 +15,13 @@ En la siguiente sesión de laboratorio se realizarán las siguientes actividades
 4. Estudiar el **Manejo de memoria dinamica en C** ([link a la teoria](https://github.com/repos-SO-UdeA/laboratorios/blob/master/lab1/teoria/parte5/memoria_dinamica.ipynb "Memoria dinamica en C")).
 
 
+**Reference cards**:
+
+* [C Reference Card (ANSI)](https://www.math.brown.edu/~jhs/ReferenceCards/CRefCard.v2.2.pdf)
+* [C Reference Card](http://web.cse.ohio-state.edu/~reeves.92/CSE2421sp13/CReferenceCard2.pdf)
+* [C Reference Cheat Sheet](https://www.cs.mun.ca/~dchurchill/pc/pdf/c.pdf)
+
+
 <!--
 2. **Caso de aplicación: listas enlazadas** ([link al recurso](https://github.com/repos-SO-UdeA/lab4/blob/master/resources/listas_enlazadas.ipynb)).  
 3. **Caso internet 1**: http://mellowcandle.github.io/liblist/doc/html/index.html, https://github.com/mellowcandle/liblist/blob/master/tests/test.c
