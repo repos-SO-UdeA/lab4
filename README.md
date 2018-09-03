@@ -8,8 +8,8 @@
 ## Sesión de laboratorio
 En la siguiente sesión de laboratorio se realizarán las siguientes actividades:
 1. Hacer un repaso rapido de los conceptos asociados estructuras. Los siguientes enlaces pueden ser de utilidad:
-   i. Resumen teórico: **Conceptos claves resumidos** ([link](https://docs.google.com/document/d/1-336S7oKYwzSSSH-vzks8lGJ0R5VJoZu3PGBsz3vP2w/edit?usp=sharing "Conceptos claves resumidos")).
-   ii. C Reference Cards (Ver enlaces de abajo).
+   1. Resumen teórico: **Conceptos claves resumidos** ([link](https://docs.google.com/document/d/1-336S7oKYwzSSSH-vzks8lGJ0R5VJoZu3PGBsz3vP2w/edit?usp=sharing "Conceptos claves resumidos")).
+   2. C Reference Cards (Ver enlaces de abajo).
 2. Analizar los ejemplos basicos en los que se facilita la comprensión para la decodificación de programas multiarchivo [link](https://github.com/repos-SO-UdeA/lab4/tree/master/code/basic). 
 3. Analizar el programa de aplicación en el cual se realiza manejo de estructuras. [link](https://github.com/repos-SO-UdeA/lab4/tree/master/code)
 4. Estudiar el **Manejo de memoria dinamica en C** ([link a la teoria](https://github.com/repos-SO-UdeA/laboratorios/blob/master/lab1/teoria/parte5/memoria_dinamica.ipynb "Memoria dinamica en C")).
