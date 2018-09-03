@@ -30,6 +30,7 @@ En la siguiente sesión de laboratorio se realizarán las siguientes actividades
 * https://www.ipa.go.jp/files/000040508.pdf
 * http://eduardolezcano.com/wp-content/uploads/2016/06/make_cheatsheet.pdf
 * https://www.tofgarion.net/lectures/IN323/refcards/refcardMakeIN323.pdf
+* http://pages.cs.wisc.edu/~remzi/OSTEP/lab-tutorial.pdf
 
 <!--
 2. **Caso de aplicación: listas enlazadas** ([link al recurso](https://github.com/repos-SO-UdeA/lab4/blob/master/resources/listas_enlazadas.ipynb)).  
