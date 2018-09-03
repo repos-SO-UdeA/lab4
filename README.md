@@ -20,7 +20,16 @@ En la siguiente sesión de laboratorio se realizarán las siguientes actividades
 * [C Reference Card (ANSI)](https://www.math.brown.edu/~jhs/ReferenceCards/CRefCard.v2.2.pdf)
 * [C Reference Card](http://web.cse.ohio-state.edu/~reeves.92/CSE2421sp13/CReferenceCard2.pdf)
 * [C Reference Cheat Sheet](https://www.cs.mun.ca/~dchurchill/pc/pdf/c.pdf)
+* [C Reference Manual](https://www.bell-labs.com/usr/dmr/www/cman.pdf)
+* [The C Cheat Sheet - An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf)
+* [C languaje - Programmer's Instant Reference Card](http://os9projects.com/CD_Archive/TUTORIAL/REF/CARD/C_Lang_Ref_Card.pdf)
+* [Quick and Dirty Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
 
+
+## Enlaces
+* https://www.ipa.go.jp/files/000040508.pdf
+* http://eduardolezcano.com/wp-content/uploads/2016/06/make_cheatsheet.pdf
+* https://www.tofgarion.net/lectures/IN323/refcards/refcardMakeIN323.pdf
 
 <!--
 2. **Caso de aplicación: listas enlazadas** ([link al recurso](https://github.com/repos-SO-UdeA/lab4/blob/master/resources/listas_enlazadas.ipynb)).  
